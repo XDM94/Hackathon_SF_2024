@@ -42,4 +42,3 @@
 - `weather_data.csv` https://drive.google.com/file/d/1szclYOFg5unjcsT0W1MRoBLep7oZcGhf/view?usp=drive_link
   - Данные о погоде.
 
-https://drive.usercontent.google.com/download?id=1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR&export=download&authuser=0
