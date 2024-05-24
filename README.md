@@ -29,6 +29,17 @@
 - Павел Очкин (the-nickey)
 
 ### Описание данных
-`train.csv` -
-https://drive.usercontent.google.com/download?id=1X_EJEfERiXki0SKtbnCL9JDv49Go14lF&export=download&authuser=0
+- `train.csv` [https://drive.usercontent.google.com/download?id=1X_EJEfERiXki0SKtbnCL9JDv49Go14lF&export=download&authuser=0](https://drive.usercontent.google.com/download?id=1X_EJEfERiXki0SKtbnCL9JDv49Go14lF&export=download&authuser=0). В нём находятся следующие данные:
+  - Данные о клиенте и таксопарке
+  - Временные характеристики
+  - Географическая информация
+  - Прочие признаки
+  - Целевой признак
+- `holiday_data.csv` https://drive.google.com/file/d/1QjEjkp9fr4fPiACvQlzOkDYt_EeUfaWx/view?usp=drive_link
+  - Данные о поездках в праздничные дни.
+- `osrm_data_train.csv` https://drive.usercontent.google.com/download?id=1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR&export=download&authuser=0
+  - Данные для построения кратчайшего маршрута.
+- `weather_data.csv` https://drive.google.com/file/d/1szclYOFg5unjcsT0W1MRoBLep7oZcGhf/view?usp=drive_link
+  - Данные о погоде.
+
 https://drive.usercontent.google.com/download?id=1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR&export=download&authuser=0
