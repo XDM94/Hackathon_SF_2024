@@ -42,4 +42,8 @@
   - Данные для построения кратчайшего маршрута.
 - `weather_data.csv` https://drive.google.com/file/d/1szclYOFg5unjcsT0W1MRoBLep7oZcGhf/view?usp=drive_link
   - Данные о погоде.
+  - `Project5_test_data.csv` https://drive.google.com/file/d/1C2N2mfONpCVrH95xHJjMcueXvvh_-XYN/view?usp=sharing
+  - Данные тестовой выборки
+  - `Project5_osrm_data_test.csv` https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing
+  - Данные тестовой выборки OSRM API
 
